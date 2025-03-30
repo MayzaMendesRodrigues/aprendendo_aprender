@@ -2,11 +2,45 @@
   height: 100vh;
   min-height: 600px;
   max-height: 756px;
-  /* Parâmetros para a seção de cabeçalho */
+  display: flex;
+  justify-content: space-between;
 }
 
-/* Aqui temos dois exemplos de seletores para lembrá-lo de como
-configurar estilos para elementos*/
+.header__square{
+  width: 568px;
+  height: 568px;
+  background-color:#2f80ed ;
+  position: absolute;
+  z-index: -1;
+  right: 1px;
+}
+.header__content{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.header__title{
+  font-size: 102px;
+  font-weight: bold;
+  max-width: 730px;
+  margin-left: 64px;
+
+}
+
+.header__paragraph{
+  margin-left: 64px;
+  max-width: 388px;
+
+}
+
+.header__subtitle{
+  font-size: 25px;
+}
+
+.header__link{
+  font-size: 18px;
+}
 .header__square-pic {
   height: 568px;
   width: 568px;
