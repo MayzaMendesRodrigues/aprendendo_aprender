@@ -1,0 +1,11 @@
+@import url(./vendor/normalize.css);
+@import url(./blocks/header.css);
+@import url(./blocks/page.css);
+
+/*incluindo elementos com modificadores de valor-chave */
+.table__cell_theme_dark {
+  width: 200px;
+  color: white;
+  margin-right: 0;
+  margin-top: 80px;
+}

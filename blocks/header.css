@@ -1,0 +1,13 @@
+.header {
+  height: 100vh;
+  min-height: 600px;
+  max-height: 756px;
+  /* Parâmetros para a seção de cabeçalho */
+}
+
+/* Aqui temos dois exemplos de seletores para lembrá-lo de como
+configurar estilos para elementos*/
+.header__square-pic {
+  height: 568px;
+  width: 568px;
+}
