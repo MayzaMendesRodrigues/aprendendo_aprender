@@ -1,0 +1,35 @@
+.description{
+  display: flex;
+  justify-content: center;
+  max-width: 80%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.description__two-columns{
+  display: flex;
+  justify-content: space-between;
+  justify-content: center;
+}
+
+.decription__brief{
+  line-height: 1.2;
+  font-size: 18px;
+  color:#2f80ed;
+  width: 175px;
+}
+
+.description_paragraph{
+  line-height: 34px;
+  font-size: 24px;
+
+}
+
+.description__main-text {
+  min-width: 784px;
+}
+
+.description__span-accent{
+  font-size: 24px;
+  font-weight: bold;
+}

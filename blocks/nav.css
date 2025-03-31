@@ -7,3 +7,9 @@
   height: 31px;
 }
 
+@media (max-width:1024px) {
+  .nav{
+    display: flex;
+    justify-content: center;
+  }
+}
