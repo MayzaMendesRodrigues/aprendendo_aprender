@@ -22,7 +22,7 @@
   min-width: 175px;
 }
 
-.description_paragraph{
+.description__paragraph{
   line-height: 34px;
   font-size: 24px;
   margin: 30px;
@@ -33,18 +33,14 @@
 .description__span-accent{
   font-size: 24px;
   font-weight: bold;
-  margin: 24px;
 }
 
 @media(max-width:1024px){
 
-.content{
-  display: flex;
-  justify-content: center;
-}
+
 .description{
   min-width: 320px;
-  margin: 25px;
+  margin:  25px auto;
 
 }
 
@@ -61,13 +57,13 @@
   line-height: 1.63;
   font-size: 18px;
 }
+.description__span-accent{
+  font-size: 18px;
+}
 }
 
 @media(max-width:544px){
-  .description{
 
-
-  }
 
   .description__two-columns{
     max-width: 288px;
@@ -77,6 +73,10 @@
   }
 
   .description__paragraph{
+    font-size: 16px;
+  }
+
+  .description__span-accent{
     font-size: 16px;
   }
 }

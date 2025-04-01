@@ -3,11 +3,7 @@
 @import url(./blocks/page.css);
 @import url(./blocks/nav.css);
 @import url(./blocks/description.css);
+@import url(./blocks/digits.css);
+@import url(./blocks/global.css);
+@import url(./blocks/feynman.css)
 
-/*incluindo elementos com modificadores de valor-chave */
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
-}
