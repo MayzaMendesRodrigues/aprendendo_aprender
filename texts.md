@@ -53,7 +53,7 @@ por Josh Kaufman
 1. Escolha um projeto que te traga interesse
 2. Foque a sua energia em uma habilidade por vez
 3. Defina o seu nível alvo de performance
-4. Desconstrua a habilidade em sub-habilidades
+4. Defina o seu nível alvo de performance
 5. Obtenha ferramentas críticas
 6. Elimite as barreiras para praticar
 7. Dedique tempo para a prática
@@ -68,7 +68,7 @@ Sobre o TripleTen
 Página Inicial 
 Missão
 Profissões
-Mídia sociala
+Mídia social
 
 (c) 2020 Seu nome
 

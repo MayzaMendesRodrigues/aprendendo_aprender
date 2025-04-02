@@ -1,0 +1,44 @@
+.kaufman{
+  background-color: #1f1f1f;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+  padding: 0 15px 90px 15px;
+}
+
+.kaufman__title{
+  font-size: 60px;
+  line-height: 1.15;
+  font-weight: bold;
+  width: 60%;
+  margin: 90px 0 20px 0;
+  z-index: 1;
+}
+
+.kaufman__subtitle{
+  line-height: 34px;
+  font-size: 24px;
+  z-index: 1;
+}
+
+.kaufman__table{
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  z-index: 1;
+}
+
+.kaufman__triangule{
+  position: absolute;
+  top: 0;
+  right: -124px;
+  z-index: 0;
+
+}
+
+@media(max-width:1024px){
+  .kaufman__title{
+    font-size: 40px;
+  }
+}
