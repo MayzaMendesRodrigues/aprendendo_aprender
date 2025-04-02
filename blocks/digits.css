@@ -37,7 +37,7 @@ width: 100%;
 
 .table__text{
   line-height: 1.2;
-  font-size: 18px;
+  font-size: 16px;
   margin-bottom: 20px;
 }
 
@@ -48,6 +48,7 @@ width: 100%;
 
   .digits__section-subtitle{
     font-size: 24px;
+    text-align: center;
   }
 
 
