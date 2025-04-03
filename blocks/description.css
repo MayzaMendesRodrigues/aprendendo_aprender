@@ -1,9 +1,19 @@
 .description{
   display: flex;
   justify-content: center;
-  max-width: 80%;
   margin: 100px auto;
   min-width: 784px;
+
+}
+
+.description__oakley{
+  background-color: #F2F2F2;
+  max-width: 100%;
+  padding-top: 160px;
+  padding-bottom: 100px;
+  margin:-60px 0 0;
+
+
 
 }
 
@@ -12,6 +22,8 @@
   justify-content: space-between;
   justify-content: center;
   column-gap: 50px;
+  max-width: 80%;
+
 
 }
 
@@ -49,6 +61,14 @@
   justify-content: center;
   max-width: 720px;
   width: 100%;
+
+}
+
+.description__oakley{
+  max-width: 100%;
+  padding-top: 160px;
+  padding-bottom: 100px;
+  margin:-60px 0 0;
 
 }
 

@@ -7,5 +7,9 @@
 @import url(./blocks/global.css);
 @import url(./blocks/feynman.css);
 @import url(./blocks/keufman.css);
-@import url(./blocks/footer.css)
+@import url(./blocks/footer.css);
+@import url(./blocks/techniques.css);
+@import url(./blocks/video.css);
+@import url(./blocks/khan.css);
+@import url(./blocks/resources.css);
 
