@@ -3,6 +3,7 @@
   flex-direction: column;
   position: relative;
   min-height: 100vh;
+  height: 100%;
   background-color: #F2F2F2;
   margin: 0;
   justify-content: center;
@@ -30,6 +31,8 @@
   max-width: 730px;
   width: 100%;
   margin-left: 64px;
+  z-index: 1;
+
 
 }
 
@@ -62,9 +65,7 @@
 
 
 @media(max-width:1024px){
-  .header{
-    flex-direction: column;
-  }
+
 
   .header__main-illustration{
     position: relative;
@@ -105,7 +106,7 @@
 
   }
 .header__content{
-  margin-top: 50px;
+  margin-bottom:350px;
 }
 
 .header__subtitle{
@@ -129,8 +130,17 @@
   background-color:#2f80ed;
   bottom: 75px;
   left: 60px;
-
+}
 
 }
 
+@media(max-width:430px){
+  .header__square{
+    bottom: 0;
+  }
+
+  .header__main-illustration{
+    position: absolute;
+    bottom: 0;
+  }
 }
