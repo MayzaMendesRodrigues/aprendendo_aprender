@@ -10,6 +10,23 @@
   overflow: hidden;
 }
 
+.header__square-rotation{
+  transform: rotate(15deg);
+}
+
+.header__square-rotation_animated{
+  animation: rotation 20s linear infinite;
+}
+
+@keyframes rotation{
+  from{
+    transform: rotate(15deg);
+  }
+  to{
+    transform: rotate(375deg);
+  }
+}
+
 .header__square{
   width: 568px;
   height: 568px;
@@ -49,6 +66,7 @@
 .header__paragraph{
   margin: auto 0 0 64px;
   max-width: 388px;
+  z-index: 1;
 
 }
 
