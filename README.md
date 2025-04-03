@@ -25,7 +25,7 @@ The main objective was to consolidate skills in **responsive design**, flexbox, 
 
 ## Key Differentiators
 
-This project went beyond the original TripleTen challenge, which only required semantic HTML and flexbox. As a differentiator, advanced responsiveness techniques were incorporated, including **CSS Grid**, along with UI improvements using shadows and gradients.
+This project went beyond the original TripleTen challenge, which only required semantic HTML and flexbox. As a differentiator, advanced responsiveness techniques were incorporated, including **CSS Grid**.
 
 ## Deployment
 
