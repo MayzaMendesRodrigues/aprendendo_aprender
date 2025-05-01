@@ -28,9 +28,7 @@ The main objective was to consolidate skills in **responsive design**, flexbox, 
 
 This project went beyond the original TripleTen challenge, which required only semantic HTML and flexbox. As a differentiator, advanced responsiveness techniques, including **CSS Grid**, were incorporated.
 
-## Deployment
 
-The project is available online via GitHub Pages: [https://mayzamendesrodrigues.github.io/aprendendo_aprender/](https://mayzamendesrodrigues.github.io/aprendendo_aprender/)
 
 # Aprendendo a Aprender - Part 2
 
@@ -63,7 +61,9 @@ If you have any questions or want to learn more about the project, feel free to 
 
 **Email:** mayzamrodrigues@gmail.com  
 **LinkedIn:** [linkedin.com/in/mayza-ynara-mendes-rodrigues](https://linkedin.com/in/mayza-ynara-mendes-rodrigues)
+## Deployment
 
+The project is available online via GitHub Pages: [https://mayzamendesrodrigues.github.io/aprendendo_aprender/](https://mayzamendesrodrigues.github.io/aprendendo_aprender/)
 
 
 
